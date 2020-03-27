@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Hier_cnn_image_paragraph_captioning
-Hierarchical Approach for Generating Descriptive Image Paragraphs 实现
-=======
 # hier_cnn-for-image-paragraph-captioning
 本文是 Hierarchical Approach for Generating Descriptive Image Paragraphs[https://cs.stanford.edu/people/ranjaykrishna/im2p/index.html] 代码实现<bt/>
 框架： pytorch
